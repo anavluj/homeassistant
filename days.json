@@ -1,21 +1,14 @@
 {
   "MAJOR_AUS": {
-    "static": {
-      "1/1": "New Year's Day",
-      "28/1": "Australia Day",     
+    "static": {    
       "14/2": "Valentine's Day",
-      "17/3": "St. Patrick's Day",
-      "25/4": "ANZAC Day",
-      "14/5": "wedding Aniversary",
-      "6/5": "Jackson Birthday",
-      "26/5": "Christina Birthday",
-      "6/6": "Hudson Birthday",
-      "4/7": "James Birthday",
-      "28/7": "Rebecca Birthday",
-      "30/8": "Gold Coast Show Day",
-      "7/10": "Queen's Birthday,
+      "15/3": "Aniversary",
+      "14/5": "Wedding Aniversary",
+      "8/8": "Anabel's Birthday",
+      "9/9": "Eicar Birthday",
+      "21/9": "David's Birthday,
+      "12/10": "Ada Birthday",
       "31/10": "Halloween",
-       "2/12": "Dad Birthday",
       "24/12": "Christmas Eve",
       "25/12": "Christmas Day",
       "31/12": "New Year's Eve"
